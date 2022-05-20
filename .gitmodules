@@ -1,0 +1,3 @@
+[submodule "ppomodoro-core-security"]
+	path = src/main/resources/config
+	url = https://github.com/ppomodoro/ppomodoro-core-security
